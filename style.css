@@ -63,11 +63,12 @@ html {
 }
 
 .quote-text > #textQuote {
-  font-size: 3rem;
+  font-size: 3.4rem;
   font-family: Arial, Helvetica, sans-serif;
   text-align: start;
   margin: 1rem 0 0 2rem;
   color: #6c757d;
+  padding: 0 2rem 0 0;
 }
 
 .quote-text img {
